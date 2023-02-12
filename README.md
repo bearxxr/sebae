@@ -6,3 +6,8 @@
 <a href="#"><img src="https://img.shields.io/badge/python-%3E%3D3.6-blue" ></a>
 <a href="#"><img src="https://img.shields.io/badge/Django-%3E%3D3.2-green" ></a>
 </div>
+
+### 快速启动
+```angular2html
+pip3 install -r requirements.txt
+```
